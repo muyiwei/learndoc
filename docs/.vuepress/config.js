@@ -40,7 +40,7 @@ module.exports = {
       },
       {
         text: '学习例子',
-        link: '/guide/'
+        link: '/learn/'
       }
     ],
     sidebar: {
@@ -48,11 +48,15 @@ module.exports = {
         title:"eventlop理解",
         path:"eventlop.md",
       
-      },["second.md", "嘻嘻"]
+      },["jinks.md", "jinkins"]
     ]
 
     },
-    "guide":[
+    "learn":[
+      {
+        title:"从 0到 1 jinks vue项目自动构建",
+        path:"jinks.md"
+      }
 
     ]
   },
