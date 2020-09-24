@@ -48,7 +48,7 @@ module.exports = {
         title:"eventlop理解",
         path:"eventlop.md",
       
-      },["jinks.md", "jinkins"]
+      }
     ]
 
     },
