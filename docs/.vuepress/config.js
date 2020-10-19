@@ -41,6 +41,10 @@ module.exports = {
       {
         text: '学习例子',
         link: '/learn/'
+      },
+      {
+        text:"工作中问题总结",
+        link: 'issues'
       }
     ],
     sidebar: {
@@ -49,16 +53,23 @@ module.exports = {
         path:"eventlop.md",
       
       }
-    ]
-
-    },
+    ],
     "learn":[
       {
         title:"从 0到 1 jinks vue项目自动构建",
         path:"jinks.md"
       }
 
+    ],
+    "issues": [
+      {
+        title: "ie相关",
+        path: "ie.md"
+      }
     ]
+
+    },
+
   },
 
   /**
