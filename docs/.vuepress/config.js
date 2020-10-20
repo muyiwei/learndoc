@@ -44,7 +44,7 @@ module.exports = {
       },
       {
         text:"工作中问题总结",
-        link: 'issues'
+        link: '/issues/'
       }
     ],
     sidebar: {
@@ -54,17 +54,25 @@ module.exports = {
       
       }
     ],
-    "learn":[
+    "/learn/":[
       {
         title:"从 0到 1 jinks vue项目自动构建",
         path:"jinks.md"
       }
 
     ],
-    "issues": [
+    "/issues/": [
       {
         title: "ie相关",
         path: "ie.md"
+      },
+      {
+        title: "webview相关",
+        path: "webview.md"
+      },
+      {
+        title: "移动端相关",
+        path: "mobile.md"
       }
     ]
 
