@@ -52,7 +52,18 @@ module.exports = {
         title:"eventlop理解",
         path:"eventlop.md",
       
+      },
+      {
+        title:"http-equiv理解",
+        path:"http-equiv.md",
+      
+      },
+      {
+        title:"常见前端安全响应头理解",
+        path:"webSecurity.md",
+      
       }
+
     ],
     "/learn/":[
       {
