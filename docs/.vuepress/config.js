@@ -69,6 +69,10 @@ module.exports = {
       {
         title:"从 0到 1 jinks vue项目自动构建",
         path:"jinks.md"
+      },
+      {
+        title:"vue",
+        path:"vue.md"
       }
 
     ],
